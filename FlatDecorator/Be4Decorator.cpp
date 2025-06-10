@@ -10,7 +10,7 @@
  */
 
 
-/*! Decorator resembling BeOS R5 */
+/*! Decorator resembling BeOS R4 - R5 */
 
 
 #include "BeDecorator.h"
