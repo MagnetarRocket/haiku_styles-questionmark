@@ -310,15 +310,6 @@ BeDecorator::GetComponentColors(Component component, uint8 highlight,
 			_colors[5].green = std::max(0, base.green - 128);
 			_colors[5].blue = std::max(0, base.blue - 128);
 			_colors[5].alpha = 255;
-
-			// for the resize-border highlight dye everything bluish.
-			if (highlight == HIGHLIGHT_RESIZE_BORDER) {
-				for (int32 i = 0; i < 6; i++) {
-					_colors[i].red = std::max((int)_colors[i].red - 80, 0);
-					_colors[i].green = std::max((int)_colors[i].green - 80, 0);
-					_colors[i].blue = 255;
-				}
-			}
 			break;
 		}
 	}
@@ -507,13 +498,7 @@ BeDecorator::_DrawFrame(BRect invalid)
 
 				BRect bg(x - 13, y - 13, x, y);
 
-				BGradientLinear gradient;
-				gradient.SetStart(bg.LeftTop());
-				gradient.SetEnd(bg.RightBottom());
-				gradient.AddColor(colors[1], 0);
-				gradient.AddColor(colors[2], 255);
-
-				fDrawingEngine->FillRect(bg, gradient);
+				fDrawingEngine->FillRect(bg, colors[2]);
 
 				fDrawingEngine->StrokeLine(BPoint(x - 15, y - 15),
 					BPoint(x - 15, y - 2), colors[0]);
