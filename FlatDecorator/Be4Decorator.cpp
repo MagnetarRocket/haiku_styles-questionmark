@@ -13,7 +13,7 @@
 /*! Decorator resembling BeOS R4 - R5 */
 
 
-#include "BeDecorator.h"
+#include "Be4Decorator.h"
 
 #include <algorithm>
 #include <cmath>
