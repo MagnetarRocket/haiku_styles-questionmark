@@ -50,7 +50,7 @@ Are three flat themes to use with the decorators and controllok:
 
 ### Mac
 
-### Mac7
+### Monochrome
 
 ### Win
 
