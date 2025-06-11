@@ -1,7 +1,7 @@
 # Haiku-OS Themes
 
 ## Sources:
-As of currently, the origans for the source code is within the theme's source fiels, look in there.
+As of currently, the origins for the source code is within the theme's source files, look in there.
 
 ### Install of controlLook
 Copy the created binary into the path: `/boot/home/config/non-packaged/add-ons/control_look`.
@@ -38,6 +38,9 @@ Are three flat themes to use with the decorators and controllok:
 
 ![alt text](https://raw.githubusercontent.com/unarix/haiku_darkstyle/master/LightFLat/screenshot.png?raw=true)
 
+### Monochrome
+
+### Amiga
 
 ## Decorators
 
@@ -46,6 +49,8 @@ Are three flat themes to use with the decorators and controllok:
 ![alt text](https://raw.githubusercontent.com/unarix/haiku_darkstyle/master/LightFLat/screenshot.png?raw=true)
 
 ### Mac
+
+### Mac7
 
 ### Win
 
