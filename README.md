@@ -10,9 +10,7 @@ Copy the created binary into the path: `/boot/home/config/non-packaged/add-ons/c
 Copy the created binary into the path: `/boot/home/config/non-packaged/add-ons/decorators`.
 
 ### Install Themes
-While the controlLook And the decorator are perfectly usable in their own right, to use the colorscheme…
-
-install the package "Theme Manager" from haiku-depot. After installing it, copy `DarkFlat`/`LightFlat`/`MoonFlat` into `/boot/home/config/settings/UIThemes`. Open Theme manager and select one of them from the list.
+While the controlLook And the decorator are perfectly usable in their own right, to use the colorscheme, install the package "Theme Manager" from haiku-depot. After installing it, copy `DarkFlat`/`LightFlat`/`MoonFlat` into `/boot/home/config/settings/UIThemes`. open "Theme manager: and select one of them from the list.
 
 ### Select Decorator and ControlLook from Appearance
 In the Appearance preferences dialog, select "Flat" from the combos "Decorator" and "ControlLook"
@@ -50,6 +48,8 @@ Are three flat themes to use with the decorators and controllok:
 
 ### Mac
 
+### Mac7
+
 ### Monochrome
 
 ### Win
@@ -57,6 +57,8 @@ Are three flat themes to use with the decorators and controllok:
 ### Be4
 
 ### BeR3
+
+### Amiga3
 
 ### Flat
 
