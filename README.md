@@ -33,7 +33,6 @@ Are three flat themes to use with the decorators and controllok:
 ## ControlLooks
 
 ### Flat
-
 ![alt text](https://raw.githubusercontent.com/unarix/haiku_darkstyle/master/LightFLat/screenshot.png?raw=true)
 
 ### Monochrome
@@ -43,25 +42,28 @@ Are three flat themes to use with the decorators and controllok:
 ## Decorators
 
 ### Flat
-
 ![alt text](https://raw.githubusercontent.com/unarix/haiku_darkstyle/master/LightFLat/screenshot.png?raw=true)
 
 ### Mac
 ![MacOS platium style](screenshots/macP-screenshot.png)
+
 ### Mac7
+![MacOS platium style](screenshots/macP-screenshot.png)
 
 ### Monochrome
 
 ### Win
 
 ### Be4
-![Accurate BeOS style](screenshots/be4-screenshot.png)
+![Accurate BeOS 4-5 style](screenshots/be4-screenshot.png)
 
 ### BeR3
+![BeOS 1.1d6 - R3.x style](screenshots/macP-screenshot.png)
 
 ### Amiga3
 
-### Flat
+### Timm
+![A style influnced by TWM]()
 
 ### Default
 
