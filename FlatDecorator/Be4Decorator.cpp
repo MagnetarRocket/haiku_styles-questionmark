@@ -24,7 +24,6 @@
 
 #include <Autolock.h>
 #include <Debug.h>
-#include <GradientLinear.h>
 #include <Rect.h>
 #include <Region.h>
 #include <View.h>
